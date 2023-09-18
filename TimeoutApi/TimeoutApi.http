@@ -1,0 +1,6 @@
+@TimeoutApi_HostAddress = http://localhost:5236
+
+GET {{TimeoutApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
